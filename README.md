@@ -1,0 +1,1 @@
+# lab6_ci_pipeline
